@@ -1,6 +1,6 @@
 # Biblioteca de los programas de fiestas de Alaejos
 
-Sitio estático con los artículos publicados en los programas de las Fiestas Patronales de Alaejos (1954–2026). Forma parte de las Publicaciones de los amigos de Alaejos.
+Sitio estático con los artículos publicados en los programas de las Fiestas Patronales de Alaejos (1954–2026). Forma parte de las Publicaciones de Amigos de Alaejos.
 
 - `index.html`: portada con el buscador.
 - `anios.html`, `temas.html`, `autores.html`: listados.
